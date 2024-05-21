@@ -1,3 +1,0 @@
-DivByN
-TestThread
-Sum

@@ -1,3 +1,0 @@
-DivisibleByThree
-TestThread
-Even
